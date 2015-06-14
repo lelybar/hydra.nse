@@ -1,0 +1,15 @@
+admin
+user
+login
+cisco
+orcl
+oracle
+listener
+orcllsnr
+psql
+postgres
+postgresql
+mysql
+mssql
+basic
+digest
